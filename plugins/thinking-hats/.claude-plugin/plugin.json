@@ -1,0 +1,11 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "thinking-hats",
+  "version": "1.0.0",
+  "description": "Edward de Bono's Six Thinking Hats as focused thinking lenses. Solo hats (/black-hat, /white-hat, /yellow-hat, /green-hat, /red-hat, /blue-hat) reframe the reply through one lens; /hats runs the full panel over an idea. Lens definitions are shared in hats/lens.md.",
+  "author": {
+    "name": "Andrei Surdu",
+    "email": "andrei@surdu.eu"
+  },
+  "keywords": ["thinking", "de-bono", "six-hats", "brainstorming", "decision-making"]
+}

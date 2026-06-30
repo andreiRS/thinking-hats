@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "thinking-hats",
+  "description": "Edward de Bono's Six Thinking Hats as Claude Code skills: put on one hat to focus a discussion through a single lens, or run the full panel over an idea.",
+  "owner": {
+    "name": "Andrei Surdu",
+    "email": "andrei@surdu.eu"
+  },
+  "plugins": [
+    {
+      "name": "thinking-hats",
+      "source": "./plugins/thinking-hats",
+      "category": "productivity"
+    }
+  ]
+}
