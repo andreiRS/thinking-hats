@@ -38,6 +38,45 @@ All seven skills share one source of truth for the lenses:
 [`plugins/thinking-hats/hats/lens.md`](plugins/thinking-hats/hats/lens.md). Edit a lens
 once and every skill follows.
 
+## Examples
+
+Same idea on the table for all three: **"add a daily-login streak reward to the game."**
+
+### `/black-hat` — one lens, full B → A → C
+
+> **B — Questions to sit with**
+> - What happens to a player who misses day 6 of a 7-day streak — rewarded, or punished?
+> - Are we rewarding *playing the game*, or just *opening the app*?
+> - What stops a player who breaks a 200-day streak from quitting out of frustration?
+>
+> **A — The lens**
+> A streak rewards *attendance*, not enjoyment, so you train players to show up out of
+> obligation. The break is where it bites: a single missed day wipes a long streak, and loss
+> aversion turns your most loyal players into your biggest flight risk…
+>
+> **C — Takeaways**
+> - Rewards attendance, not fun — trains obligation · weight: high
+> - Streak-break loss aversion = flight risk for your best players · weight: high
+> - Invites bots, alts, open-and-close farming · weight: med
+
+### `/red-hat` — gut only, no reasons
+
+> Tired. It smells like a chore dressed up as a gift, and a little cynical — like we're
+> nudging people instead of trusting the game to be worth opening.
+
+### `/hats` — the full panel, compressed, blue closes
+
+> ⚪ **White** — Strong prior art (Duolingo, Snapchat); missing our own day-7/30 retention
+> baseline and a success metric.
+> 🔴 **Red** — Tired. Smells like a chore dressed up as a gift.
+> ⚫ **Black** — Streak-break loss aversion is a flight risk; rewards showing up, not playing.
+> 🟡 **Yellow** — Habit is the highest-leverage retention lever; cheap to build and A/B test.
+> 🟢 **Green** — Forgiving streak ("5 of 7 days"), reward *play* not the open, or a comeback
+> bonus for returning after a lapse.
+> 🔵 **Blue** — *Open:* is the problem login frequency or session depth? *Synthesis:* the goal
+> is sound but the plain chain backfires; ship a forgiving, play-based variant and A/B it
+> against control on retention lift, not streak vanity numbers.
+
 ## Install (local marketplace)
 
 ```bash
@@ -47,6 +86,12 @@ claude plugin install thinking-hats@thinking-hats
 
 Then in any session: `/black-hat`, `/hats`, etc. (names autocomplete after `/`).
 
-## License
+## Inspiration
 
-Personal project by Andrei Surdu.
+This collection draws on the ideas, structure, and method of:
+
+- **Edward de Bono** — _Six Thinking Hats_ (1985), the book this whole project is built on.
+
+## Connect
+
+Built by Razvan Andrei Surdu in Europe — [surdu.eu](https://surdu.eu) · [github.com/andreiRS](https://github.com/andreiRS)
