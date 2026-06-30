@@ -67,12 +67,12 @@ Same idea on the table for all three: **"add a daily-login streak reward to the 
 ### `/hats` — the full panel, compressed, blue closes
 
 > ⚪ **White** — Strong prior art (Duolingo, Snapchat); missing our own day-7/30 retention
-> baseline and a success metric.
-> 🔴 **Red** — Tired. Smells like a chore dressed up as a gift.
-> ⚫ **Black** — Streak-break loss aversion is a flight risk; rewards showing up, not playing.
-> 🟡 **Yellow** — Habit is the highest-leverage retention lever; cheap to build and A/B test.
+> baseline and a success metric.\
+> 🔴 **Red** — Tired. Smells like a chore dressed up as a gift.\
+> ⚫ **Black** — Streak-break loss aversion is a flight risk; rewards showing up, not playing.\
+> 🟡 **Yellow** — Habit is the highest-leverage retention lever; cheap to build and A/B test.\
 > 🟢 **Green** — Forgiving streak ("5 of 7 days"), reward *play* not the open, or a comeback
-> bonus for returning after a lapse.
+> bonus for returning after a lapse.\
 > 🔵 **Blue** — *Open:* is the problem login frequency or session depth? *Synthesis:* the goal
 > is sound but the plain chain backfires; ship a forgiving, play-based variant and A/B it
 > against control on retention lift, not streak vanity numbers.
