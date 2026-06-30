@@ -64,6 +64,23 @@ Same idea on the table for all three: **"add a daily-login streak reward to the 
 > Tired. It smells like a chore dressed up as a gift, and a little cynical — like we're
 > nudging people instead of trusting the game to be worth opening.
 
+### `/green-hat` — alternatives, generate don't judge
+
+> **B — Questions to sit with**
+> - What if the streak rewarded *play*, not the app-open?
+> - What would a *forgiving* streak look like — one that survives a bad day?
+> - What's the opposite of punishing a gap?
+>
+> **A — The lens**
+> Drop the unbroken chain and the brittleness goes with it. A "5 of any 7 days" goal keeps
+> the habit without the cliff. Or flip it entirely: reward *returning after a lapse* — a
+> comeback bonus aimed straight at the players you actually lost…
+>
+> **C — Takeaways**
+> - Forgiving streak: "streak freeze" or "5 of 7 days" · removes the break cliff
+> - Reward meaningful play, not the bare login · realigns the incentive
+> - Comeback bonus for lapsed players · reverses the frame from punish to invite
+
 ### `/hats` — the full panel, compressed, blue closes
 
 > ⚪ **White** — Strong prior art (Duolingo, Snapchat); missing our own day-7/30 retention
